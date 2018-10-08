@@ -12,6 +12,8 @@ public abstract class Animal {
 
     public abstract void desplazarse();
 
+    public abstract void reproducirse();
+
     public abstract void nacer();
 
 }
