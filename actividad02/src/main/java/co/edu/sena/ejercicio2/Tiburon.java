@@ -1,6 +1,6 @@
 package co.edu.sena.ejercicio2;
 
-public abstract class Cocodrilo extends Reptiles{
+public abstract class Tiburon extends Pez {
 
     public void comer() {
 

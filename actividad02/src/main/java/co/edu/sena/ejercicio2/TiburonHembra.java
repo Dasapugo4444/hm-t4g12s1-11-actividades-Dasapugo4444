@@ -1,6 +1,6 @@
 package co.edu.sena.ejercicio2;
 
-public class Mujer extends Humano{
+public class TiburonHembra extends Tiburon {
 
     public void crias(){
 

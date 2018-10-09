@@ -6,7 +6,4 @@ public class PerroHembra extends Perro{
 
     }
 
-    public void desplazarse() {
-
-    }
 }

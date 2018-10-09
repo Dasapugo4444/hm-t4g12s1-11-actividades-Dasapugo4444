@@ -8,7 +8,7 @@ public abstract class Perro extends Mamifero {
 
     @Override
     public void desplazarse() {
-        System.out.println("");
+
     }
 
     public String getRaza() {
